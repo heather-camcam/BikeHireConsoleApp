@@ -1,0 +1,6 @@
+c:\users\heather\documents\visual studio 2017\Projects\BorisBikes\BorisBikes\bin\Debug\BorisBikes.exe.config
+c:\users\heather\documents\visual studio 2017\Projects\BorisBikes\BorisBikes\bin\Debug\BorisBikes.exe
+c:\users\heather\documents\visual studio 2017\Projects\BorisBikes\BorisBikes\bin\Debug\BorisBikes.pdb
+c:\users\heather\documents\visual studio 2017\Projects\BorisBikes\BorisBikes\obj\Debug\BorisBikes.csprojResolveAssemblyReference.cache
+c:\users\heather\documents\visual studio 2017\Projects\BorisBikes\BorisBikes\obj\Debug\BorisBikes.exe
+c:\users\heather\documents\visual studio 2017\Projects\BorisBikes\BorisBikes\obj\Debug\BorisBikes.pdb
